@@ -4,7 +4,7 @@ Uso:
 
 1.- Descargar e instalar nodejs. Si no está instalado, ir a: `https://nodejs.org/es`.
 
-2.- Descargar el zip y descomprimirlo.
+2.- Descargar el zip y descomprimirlo, de este mismo repositorio, hablo.
 
 3.- Ejecutar `>npm install express` en la ruta del fichero `server.js`.
 
