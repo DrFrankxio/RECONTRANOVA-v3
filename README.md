@@ -12,6 +12,4 @@ Uso:
 
 5.- Ejecutar comando `>node server.js` en la ruta del fichero `server.js`.
 
-6.- Quien tenga esta hierramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción.
-
-7.- Agradecería respeto, q es algo q se está perdiendo. Más defensa menos ataque más noobs menos pros.
+6.- Quien tenga esta hierramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
